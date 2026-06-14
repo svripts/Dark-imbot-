@@ -1,5 +1,5 @@
 -- ============================================================
--- LOGGED BY @BLACKSKILLISUE
+-- LOGGED BY @BARKHUB
 -- FEAR DUEL BAT AIMBOT (COMPLETE - All features)
 -- ============================================================
 
